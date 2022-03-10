@@ -21,9 +21,9 @@ export default function Home() {
 					</h3>
 				</div>
 				<p className='text-xs text-gray-300'>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-					et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-					aliquip ex ea commodo consequat.
+					Computer Science student at the University of Central Florida with a minor in Intelligent Robotic
+					Systems. Experience with full stack development, as well as developing standalone applications in C
+					and C++.
 				</p>
 				<div className='flex content-center justify-between'>
 					<a
